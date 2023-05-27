@@ -4,7 +4,7 @@ let num3 = 9.8;
 let num4 = 10.4;
 let num5 = 14.8;
 let num6 = 15.9;
-let promedio1 = (num1+num2+num3+num4+num5+num6) / 6;  //ejercicio promedio 6 clase practica sabado 27
+let promedio1 = (num1+num2+num3+num4+num5+num6) / 6;  //ejercicio promedio 6 clase sabado 27
 console.log("Promedio 1 es igual a " + promedio1);
 
 num1 = -2;
