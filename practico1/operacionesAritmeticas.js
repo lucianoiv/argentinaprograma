@@ -10,4 +10,4 @@ let resultadoFinal = resultado1*resultado2; //multiplicacion de resultados
 
 let esPar = resultadoFinal % 2 === 0; //devuelve True si resultado final es par
 
-console.log("Mis variables iniciales fueron: "+num1+", "+num2+", "+num3+" y "+num4+". La respuesta a verificar si el resultado final es par es: "+esPar)
+console.log("Mis variables iniciales fueron: %i, %i, %i y %i. La respuesta a verificar si el resultado final es par es: "+esPar+".",num1,num2,num3,num4)
